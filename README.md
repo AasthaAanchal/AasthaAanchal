@@ -42,7 +42,7 @@
 
 ## 💡 LeetCode Stats
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/aasthaaanchal?theme=dark&font=Source%20Code%20Pro&ext=heatmap)](https://leetcode.com/aasthaaanchal/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/profile?theme=dark&font=Source%20Code%20Pro&ext=heatmap)](https://leetcode.com/profile/)
 
 ## 📈 GitHub Stats
 
